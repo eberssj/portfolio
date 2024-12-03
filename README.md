@@ -111,7 +111,7 @@ Em resumo, apesar de ter ficado um pouco na zona de conforto, acredito que houve
 **[Clique aqui para acessar o repositório. 🪄 ](https://github.com/TeamHiveAPI/API-2024.01)**
 
 ### 📅 **2024.2**
-- **[Portal da Transparência](https://github.com/eberssj/api-fatec-3sem-24)**: 
+- **[Portal da Transparência](https://github.com/A-Sync-Fatec/api-fatec-3sem-24)**: 
 
 Este projeto é uma releitura do portal de transparência da Fundação de Apoio à Pesquisa de Pós-Graduandos (FAPG), desenvolvido com o objetivo de proporcionar uma plataforma mais moderna, segura e acessível para os usuários. A partir da análise das necessidades dos usuários e dos desafios enfrentados pela plataforma anterior, buscamos adotar as melhores práticas de desenvolvimento e as tecnologias mais recentes, a fim de criar uma aplicação robusta, intuitiva e eficiente.
 Nosso principal foco é garantir que as informações públicas da fundação sejam facilmente acessíveis a todos, independentemente de suas habilidades tecnológicas ou limitações. Para isso, implementamos medidas de acessibilidade que tornam a navegação mais inclusiva, como design responsivo e recursos de leitura compatíveis com ferramentas de assistência. A segurança dos dados também foi uma prioridade, com a implementação de protocolos avançados de proteção, garantindo que as informações sensíveis estejam sempre protegidas contra acessos não autorizados.
