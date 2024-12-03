@@ -28,6 +28,7 @@ Me familiarizar com aspectos como planejamento incremental e entrega contínua d
 Essas experiências não apenas ampliaram minha habilidade técnica em gerenciamento de projetos, mas também fortaleceram minhas soft skills, como comunicação, empatia e resolução de problemas em equipe.
 
 🔹 **Tecnologias Utilizadas**: 
+
 - **Frontend**:  
   - `HTML`  
   - `CSS`  
@@ -50,6 +51,7 @@ Essas experiências não apenas ampliaram minha habilidade técnica em gerenciam
 - Gestão e priorização de backlog  
 
 🔹 **Soft Skills Desenvolvidas**:  
+
 Quando saí do ensino médio, fui direto para um ambiente onde conheci pessoas de idades e realidades diferentes da minha. Isso foi um grande desafio, porque eu estava muito acostumado com a minha bolha e de repente precisei lidar com perspectivas totalmente novas.
 Aprendi a me comunicar de forma mais clara e aberta, ajustando minha forma de falar para realmente conectar com as pessoas. Também foi uma oportunidade de entender melhor as dificuldades e histórias dos outros, o que me ajudou a desenvolver empatia e resolver problemas de um jeito mais humano. Trabalhar em grupo com pessoas tão diferentes foi desafiador, mas acabou me ensinando muito sobre como colaborar de verdade e buscar soluções juntos.
 A execução desse projeto apresentou diversos desafios que foram além dos aspectos técnicos. Durante o desenvolvimento, alguns integrantes enfrentaram problemas pessoais significativos, o que impactou diretamente a dinâmica da equipe. Infelizmente, alguns deles precisaram trancar o semestre, reduzindo nossa capacidade operacional em alguns momentos.
@@ -122,8 +124,6 @@ Ao aproveitar as tecnologias e linguagens de programação mais recentes, como f
 Neste semestre, assumi o papel de Product Owner (P.O.), onde fui responsável pela documentação e pela separação das tarefas para o time nas duas primeiras sprints. Meu trabalho foi fundamental para garantir que todos tivessem clareza sobre o que precisava ser feito e qual a prioridade das tarefas, o que ajudou a manter o time alinhado com os objetivos do projeto. No entanto, ao longo do semestre, enfrentei alguns desafios. Um dos maiores foi o fato de que, por várias vezes, tive que desempenhar funções de Scrum Master, já que meu Scrum Master tinha dificuldades em cumprir suas responsabilidades.
 Nas duas últimas sprints, houve uma mudança de grupo, e fui nomeado Scrum Master. Nunca havia exercido esse papel antes, o que representou um grande desafio. No entanto, aceitei o desafio com empenho, me dedicando a aprender rapidamente as responsabilidades do Scrum Master, como o gerenciamento das dailies, a remoção de impedimentos e o acompanhamento do progresso do time. Foi um aprendizado intenso e gratificante, que me fez crescer consideravelmente em termos de habilidades de liderança e organização.
 No entanto, enfrentei outro obstáculo: na última sprint, também tive que assumir novamente o papel de P.O. e separar as tarefas, o que impactou o andamento da sprint. A sobrecarga de responsabilidades, somada à pressão de garantir que tudo fosse entregue, gerou alguns problemas duradouros na organização da sprint, mas, apesar disso, conseguimos entregar todas as funcionalidades conforme o planejado. Essa experiência me ensinou a importância de delegar responsabilidades de forma clara e de manter um equilíbrio entre as funções para garantir que o time continue produtivo e motivado.
-
-
 
 🔹 **Tecnologias Utilizadas**: 
 
