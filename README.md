@@ -162,4 +162,4 @@ Hoje, após esses desafios, me sinto muito mais preparado para enfrentar inconsi
 
 **[Clique aqui para acessar o repositório. (H.I.V.E) 🪄 ](https://github.com/TeamHiveAPI/API-2024.02)**
 
-**[Clique aqui para acessar o repositório. (A-Sync) 🪄 ](https://github.com/eberssj/api-fatec-3sem-24)**
+**[Clique aqui para acessar o repositório. (A-Sync) 🪄 ](https://github.com/A-Sync-Fatec/api-fatec-3sem-24)**
