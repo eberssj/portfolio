@@ -42,6 +42,7 @@ Essas experiências não apenas ampliaram minha habilidade técnica em gerenciam
 
 
 🔹 **Hard Skills Desenvolvidas**:  
+
 - Criação de layouts responsivos com `HTML`, `CSS` e `Bootstrap`  
 - Design de interfaces funcionais e protótipos com `Figma`  
 - Construção de APIs e sistemas web com `Python` e `Flask`
@@ -107,3 +108,58 @@ Em resumo, apesar de ter ficado um pouco na zona de conforto, acredito que houve
 
 **[Clique aqui para acessar o repositório. 🪄 ](https://github.com/TeamHiveAPI/API-2024.01)**
 
+### 📅 **2024.2**
+- **[Portal da Transparência](https://github.com/eberssj/api-fatec-3sem-24)**: 
+
+Este projeto é uma releitura do portal de transparência da Fundação de Apoio à Pesquisa de Pós-Graduandos (FAPG), desenvolvido com o objetivo de proporcionar uma plataforma mais moderna, segura e acessível para os usuários. A partir da análise das necessidades dos usuários e dos desafios enfrentados pela plataforma anterior, buscamos adotar as melhores práticas de desenvolvimento e as tecnologias mais recentes, a fim de criar uma aplicação robusta, intuitiva e eficiente.
+Nosso principal foco é garantir que as informações públicas da fundação sejam facilmente acessíveis a todos, independentemente de suas habilidades tecnológicas ou limitações. Para isso, implementamos medidas de acessibilidade que tornam a navegação mais inclusiva, como design responsivo e recursos de leitura compatíveis com ferramentas de assistência. A segurança dos dados também foi uma prioridade, com a implementação de protocolos avançados de proteção, garantindo que as informações sensíveis estejam sempre protegidas contra acessos não autorizados.
+Além disso, buscamos otimizar a performance do portal para que o tempo de carregamento seja mínimo, proporcionando uma experiência de usuário rápida e sem interrupções. A interface foi cuidadosamente projetada para ser simples, mas funcional, permitindo que os usuários encontrem as informações que procuram de forma ágil e prática.
+Ao aproveitar as tecnologias e linguagens de programação mais recentes, como frameworks modernos e bancos de dados eficientes, conseguimos não apenas melhorar a experiência do usuário, mas também tornar a manutenção e a escalabilidade da plataforma mais fáceis de gerenciar. O objetivo final é fornecer uma plataforma que seja confiável, segura e que, acima de tudo, cumpra seu papel fundamental de promover a transparência e o acesso à informação pública de forma eficiente.
+
+
+🔹**Contribuições Pessoais**: 
+
+Neste semestre, assumi o papel de Product Owner (P.O.), onde fui responsável pela documentação e pela separação das tarefas para o time nas duas primeiras sprints. Meu trabalho foi fundamental para garantir que todos tivessem clareza sobre o que precisava ser feito e qual a prioridade das tarefas, o que ajudou a manter o time alinhado com os objetivos do projeto. No entanto, ao longo do semestre, enfrentei alguns desafios. Um dos maiores foi o fato de que, por várias vezes, tive que desempenhar funções de Scrum Master, já que meu Scrum Master tinha dificuldades em cumprir suas responsabilidades.
+Nas duas últimas sprints, houve uma mudança de grupo, e fui nomeado Scrum Master. Nunca havia exercido esse papel antes, o que representou um grande desafio. No entanto, aceitei o desafio com empenho, me dedicando a aprender rapidamente as responsabilidades do Scrum Master, como o gerenciamento das dailies, a remoção de impedimentos e o acompanhamento do progresso do time. Foi um aprendizado intenso e gratificante, que me fez crescer consideravelmente em termos de habilidades de liderança e organização.
+No entanto, enfrentei outro obstáculo: na última sprint, também tive que assumir novamente o papel de P.O. e separar as tarefas, o que impactou o andamento da sprint. A sobrecarga de responsabilidades, somada à pressão de garantir que tudo fosse entregue, gerou alguns problemas duradouros na organização da sprint, mas, apesar disso, conseguimos entregar todas as funcionalidades conforme o planejado. Essa experiência me ensinou a importância de delegar responsabilidades de forma clara e de manter um equilíbrio entre as funções para garantir que o time continue produtivo e motivado.
+
+
+
+🔹 **Tecnologias Utilizadas**: 
+
+- **Frontend**:  
+  - `HTML`  
+  - `CSS`  
+  - `JavaScript`  
+  - `Typescript`  
+  - `React`  
+- **Design**:  
+  - `Figma`  
+- **Backend**:  
+  - `Java`  
+  - `Spring`   
+  - `MySQL`
+  - `Axios`  
+  - `JWToken`   
+
+
+🔹 **Hard Skills Desenvolvidas**:  
+
+- Desenvolvimento de interfaces web responsivas utilizando `HTML`, `CSS`, `JavaScript`, `Typescript` e frameworks como `React`.
+- Criação de protótipos e design de interfaces funcionais e intuitivas com `Figma`.
+- Construção e consumo de APIs RESTful utilizando `Java` e `Spring`, com integração de bibliotecas como `Axios`.
+- Gerenciamento e modelagem de dados em `MySQL`, utilizando boas práticas de banco de dados e otimização de consultas.
+- Implementação de autenticação segura em sistemas web usando `JWToken` para garantir segurança em ambientes de aplicação.
+- Integração de sistemas front-end e back-end com comunicação eficaz entre as camadas, adotando padrões como o padrão RESTful e utilizando boas práticas de desenvolvimento em `Spring` e `React`.
+- Automação de fluxos e otimização de operações no servidor com `Spring`, promovendo uma arquitetura mais escalável e robusta.
+
+🔹 **Soft Skills Desenvolvidas**:  
+
+Neste semestre, passei por várias situações que exigiram que eu aprimorasse minhas softskills, especialmente em áreas como comunicação, gestão de conflitos e trabalho em equipe. Logo no início, estive em um grupo onde as falhas de comunicação entre os membros foram um grande desafio. Por mais que eu tenha tentado manter o grupo unido e alinhado com os objetivos, meus esforços não foram suficientes para superar as dificuldades internas. A falta de clareza nas mensagens e a falta de comprometimento de alguns membros levaram à separação do time após duas sprints, o que foi um baque forte para mim, especialmente porque sempre acreditei na importância do trabalho em equipe. Esse episódio me mostrou como as softskills, especialmente a comunicação e a empatia, são fundamentais para garantir o sucesso de qualquer projeto em equipe.
+Após essa experiência, fui desafiado novamente nas duas últimas sprints, quando entrei em um novo grupo com pessoas com quem eu não estava acostumado a trabalhar. Essa nova dinâmica exigiu que eu revisse completamente a minha abordagem de comunicação. Não apenas os membros do novo time tinham estilos diferentes, mas também as expectativas e formas de trabalho eram distintas. Nesse momento, percebi a importância de ser mais flexível e aberto a feedbacks, buscando entender as necessidades dos outros antes de me expressar. Esse final de semestre foi, sem dúvida, o período em que mais desenvolvi minhas softskills.
+Em termos de comunicação, fui capaz de aprimorar minha assertividade. Antes, tendia a ser mais reativo e, por vezes, evitava conversas difíceis. No entanto, ao longo do tempo, passei a perceber a importância de uma comunicação clara e direta, o que se refletiu tanto em minha interação com os colegas quanto no meu papel como Product Owner e Scrum Master. Aprendi a ser mais claro ao definir expectativas, delegar responsabilidades e, quando necessário, corrigir falhas de maneira construtiva, sempre buscando o entendimento e o alinhamento de todos.
+Hoje, após esses desafios, me sinto muito mais preparado para enfrentar inconsistências no trabalho e lidar com a diversidade de estilos e perspectivas dentro de uma equipe. Eu me sinto mais maduro, tanto em termos de como me relaciono com os outros, quanto no modo como administro meu próprio desempenho. As experiências de comunicação mais assertiva e gestão de conflitos me proporcionaram uma visão mais ampla sobre como as softskills impactam diretamente no sucesso de um projeto. Com certeza, sinto que essas experiências me tornaram mais preparado para situações futuras, onde a colaboração e a comunicação eficaz serão essenciais.
+
+**[Clique aqui para acessar o repositório. (H.I.V.E) 🪄 ](https://github.com/TeamHiveAPI/API-2024.02)**
+
+**[Clique aqui para acessar o repositório. (A-Sync) 🪄 ](https://github.com/eberssj/api-fatec-3sem-24)**
